@@ -8,3 +8,15 @@ nameserver 10.51.5.150
 
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKNmkes6x9Ap6b5EosIJD5iyogWA7MB9IDo8ZTvgb7o8 supriya@LIN-LR0D3LPZ
+
+file edit:
+vi filename.py
+insert :i
+
+
+file save:
+Esc :wq!
+Esc :x!
+Esc shift+zz
+
+
